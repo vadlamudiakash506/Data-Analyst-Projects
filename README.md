@@ -30,6 +30,7 @@
 
 ![sales and profit](https://github.com/user-attachments/assets/508df985-da84-478f-8302-8db90b829dd0)
 
+Sku Dashboard.jpg
 
 
 
